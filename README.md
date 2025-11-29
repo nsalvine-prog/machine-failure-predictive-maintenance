@@ -1,4 +1,4 @@
-# Machine Failure – Predictive Maintenance  
+# AI-Powered Predictive Maintenance for Machine Failure Detection
 
 
 ## Business Problem
